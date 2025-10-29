@@ -1,0 +1,1 @@
+This directory contains the complete project documentation for the Salesforce Capstone Project.

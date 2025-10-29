@@ -1,0 +1,1 @@
+This folder contains the demonstartion for the Salesforce Capstone Project.
